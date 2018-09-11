@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Door Keeper</string>
+    <string name="secret_key_setting_status">鍵文字列設定状況</string>
+    <string name="secret_key_hex_16">鍵文字列(20文字)</string>
+    <string name="set">設定</string>
+    <string name="pref_secret">secret</string>
+    <string name="connect_to_address">接続先アドレス</string>
+    <string name="pref_ble_addr">ble_addr</string>
+</resources>
